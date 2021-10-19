@@ -8,7 +8,7 @@
 
 **Notice**\
 The flask app is using 5000 port for expose port.
-please using ALB target group to port forward to 80
+Please using ALB target group and port-forward to 80
 
 ## Architecture
 ![image](/architecture.png)
