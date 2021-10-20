@@ -17,7 +17,7 @@
 
 **Notice**\
 1. Please using Virginia region ( us-east-1 ) to deploy the service.
-1. The flask app is using 5000 port for expose port.
+1. The flask app is using 5000 port for expose.
 please using ALB target group to port forward to 80
 
 ## Architecture
